@@ -1,2 +1,4 @@
 # 30DaysOfCode
-Some solutions for Hacker Rank 30 Days of Code
+
+Some solutions for Hacker Rank's "30 Days of Code" tutorial.
+
